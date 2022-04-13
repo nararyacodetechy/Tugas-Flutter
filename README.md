@@ -1,5 +1,7 @@
 # myapp
 
+Nama : Bagus Nararya Nanda Raditya,
+NIM : 42030064
 A new Flutter project.
 
 ## Getting Started
